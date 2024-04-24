@@ -39,7 +39,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `email`, `password`, `timestamp`) VALUES
-(1, '[admin@gmail.com]', '[123]', '0000-00-00 00:00:00');
+(1, '[root]', '[#Nawu#*13]', '0000-00-00 00:00:00');
 
 -- --------------------------------------------------------
 
